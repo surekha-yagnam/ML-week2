@@ -1,0 +1,42 @@
+{
+    "lowbp":{
+            "emergencyinstructions":"taking pomogranate juice gives instant relief.",
+            "doctorsreference":"https://www.google.com/amp/s/www.credihealth.com/doctors/india/blood-pressure-management/amp",
+        },
+    "foodallergies":{
+            "emergencyinstructions":"ginger,turmeric and banana helps a lot.",
+            "doctorsreference":"https://i.pinimg.com/originals/b9/2a/16/b92a16872e3564ea9cee863fd85ca64a.jpg",
+        },
+    "heartattack":{
+            "emergencyinstructions":"Chew and swallow an aspirin, unless patient allergic to aspirin or have been told by patient doctor never to take aspirin,Take nitroglycerin,Begin CPR if the person is unconscious.",
+            "doctorsreference":"https://i.pinimg.com/originals/b9/2a/16/b92a16872e3564ea9cee863fd85ca64a.jpg",
+        },
+    "highbp":{
+            "emergencyinstructions":"potassium and vitamin C rich foods like banana,oranges, lime water helps a lot",
+            "doctorsreference":"https://i.pinimg.com/originals/b9/2a/16/b92a16872e3564ea9cee863fd85ca64a.jpg",
+        },
+    "increasesugarlevels":{
+            "emergencyinstructions":"a piece of fruit or juice like a banana,apple,orange,grapefruit or regular soda (not sugar-free) or milk or One tablespoon honey or jelly or 15 Skittles.",
+            "doctorsreference":"https://i.pinimg.com/originals/b9/2a/16/b92a16872e3564ea9cee863fd85ca64a.jpg",
+        },
+    "reducesugarlevels":{
+            "emergencyinstructions":"Exercise Regularly or Increase Fiber Intake or give Water and keep Hydrated or Implement Portion Control or Control Stress Levels",
+            "doctorsreference":"https://i.pinimg.com/originals/b9/2a/16/b92a16872e3564ea9cee863fd85ca64a.jpg",
+        },
+    "respiratoryallergies":{
+            "emergencyinstructions":"peppermint tea or steam inhalation with eucalyptus oil helps a lot.",
+            "doctorsreference":"https://i.pinimg.com/originals/b9/2a/16/b92a16872e3564ea9cee863fd85ca64a.jpg",
+        },
+    "skinallergies":{
+            "emergencyinstructions":"mint leaf or aloe vera paste or lemon to the region of affected area helps a lot.",
+            "doctorsreference":"https://i.pinimg.com/originals/b9/2a/16/b92a16872e3564ea9cee863fd85ca64a.jpg",
+        },
+    "snakebite":{
+            "emergencyinstructions":"Move the person beyond striking distance of the snake.Have the person lie down with wound below the heart.Keep the person calm and at rest, remaining as still as possible to keep venom from spreading.Cover the wound with loose, sterile bandage.Remove any jewelry from the area that was bitten.Remove shoes if the leg or foot was bitten.",
+            "doctorsreference":"https://i.pinimg.com/originals/b9/2a/16/b92a16872e3564ea9cee863fd85ca64a.jpg",
+        },
+    "suffocation":{
+            "emergencyinstructions":"Grounding techniques.Mindful distractions.self talk.Exercise.Self care.Shock.",
+            "doctorsreference":"https://i.pinimg.com/originals/b9/2a/16/b92a16872e3564ea9cee863fd85ca64a.jpg",
+        },
+}
