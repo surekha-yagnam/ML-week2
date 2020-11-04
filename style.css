@@ -1,0 +1,90 @@
+body{
+    background:url(https://previews.123rf.com/images/leventegyori/leventegyori1506/leventegyori150600144/41664052-doctor-with-medical-background.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.introduction{
+    background-color: #ff1a8c;
+    height: 300px;
+    width: 700px;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 290px;
+}
+.bot_logo{
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    margin:auto;
+    margin-top:20px;
+}
+.caption{
+    color:white;
+    font-family: cursive;
+    font-style: italic;
+}
+#box {
+    background: rgb(77, 148, 255);
+    padding: 10px;
+    width: 700px;
+    margin-left: 278px;
+    margin-top:50px;
+    border-color: #6db2e9;
+    border-style: double;
+    font-size: 20px;
+    font-family: cursive;
+    font-style: italic;
+    
+}
+.bot_msg{
+        background: #f51d57;
+        padding: 10px;
+        border-radius: 10px;
+        display: inline-block;
+        margin: 5px;
+        color: white;
+        border: 3px white solid;
+}
+.bot_image{
+    border-radius:50%;
+    width:70px;
+    height:70px;
+    border-style: solid;
+    border-color: cornflowerblue;
+    border:2px;
+}
+#input {
+    width: 100%;
+    border-radius: 10px;
+    box-sizing: border-box;
+    height:40px;
+    border-color: black;
+    font-size: 15px; 
+}
+.user_message {
+    background: #56fd1b;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 40px;
+    border: 3px ;
+    border-color: black;
+}
+.user_img{
+    border-radius:50%;
+    width:70px;
+    height:70px;
+    display: block; 
+    border:2px white solid;
+}
+.user_block {
+    text-align: right;
+}
+img{
+    margin:10px;
+    width:400px;
+    height:400px;
+    display:block;
+}
+#hidden{
+    display: none;
+}
