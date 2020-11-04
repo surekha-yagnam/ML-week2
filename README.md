@@ -4,7 +4,6 @@ My chatbot takes health issue and displays the specialized doctors.
 
 ## Teammates for the chatbot
 1. 18pa1a05h2 - 18pa1a05h2@vishnu.edu.in
-2. 18pa1a05d2 - 18pa1a05d2@vishnu.edu.in
 
 ## objective
 My chatbot takes health issue and displays the specialist doctors.
