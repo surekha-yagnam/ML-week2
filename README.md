@@ -10,7 +10,7 @@ My chatbot takes health issue and displays the specialized doctors.
 My chatbot takes health issue and displays the specialist doctors.
 
 ## Discription of chatbot
-Now a days many people are loosing their lifes due to sudden health issues and either they have don't know the  or they don't know the currect location of hospitals.So, I have done a chatbot which helps to find the information about the hospital like phone number, location, appointment, specialized doctor of that particular health issue.And also my chatbot provides basic treatment of very emergency cases.
+Now a days many people are loosing their lifes due to sudden health issues but we can save some of their lifes if we know minimum first Aid measures to be taken.So, our chat bot is designed to provid such first aid measures along with the location of doctors if required.And we can also book an appointment directly by using our chat bot.
 
 ## Youtube video link
  [![youtube video link](https://img.youtube.com/vi/cw04P85H7O0/0.jpg)](https://www.youtube.com/watch?v=cw04P85H7O0)
