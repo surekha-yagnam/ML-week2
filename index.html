@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FoodBot</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" type="image/png" href="Emergencybot.jpg">
+  </head>   
+  <body>      
+    <div class="introduction">
+    <img class="bot_logo" src="https://cdn2.iconfinder.com/data/icons/bots-monochrome/280/10-512.png"><br>
+    <h3 class="caption">💫Don't let your dreams die with you.For this it is the most important to take care of health💫</h3>
+    <h4 class="caption">I am Emergency bot!..I can give you information about how to react at emergency situations and doctors appointment for different health issues.</h4>
+  </div>
+  <div id="box">
+    <!--chat box where user and bot will communicate-->
+    <div id="message">
+      <div class="bot_block">
+        <img class="bot_image" src="https://cdn2.iconfinder.com/data/icons/bots-monochrome/280/10-512.png" >
+        <div class="bot_msg">
+            Hello! I am Emergency Bot, Nice to see you here..Please enter your name : 
+        </div>
+        <div style="margin:10px;" accept="image/*" onchange="loadFile(event)"><input type="file">
+        </div>
+      </div>
+    </div>
+      <!-- user enter the message-->
+    <div id="hidden">
+        <!--bot messages section-->
+        <div id="bot_block" class="bot_block">
+          <img class="bot_image" src="https://cdn2.iconfinder.com/data/icons/bots-monochrome/280/10-512.png">
+          <div class="bot_msg">
+            <!-- write here anything you wish 
+            What do you want  -->
+          </div>
+        </div>   
+        <!--This is a user reply messages section-->
+        <div id="user_block" class="user_block">
+          <img class="user_img" id="pic" align="right">
+          <div class="user_message">
+            <!-- write here anything you wish -->
+          </div>
+        </div>
+      </div>   
+      <input id="input" placeholder = "Enter your message...." onkeyup="taketheinput(event)">
+  </div>
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>
